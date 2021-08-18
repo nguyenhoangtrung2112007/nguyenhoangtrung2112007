@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nguyenhoangtrung2112007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m HT Gaming
+- 👀 I’m interested in write code 
+- 🌱 I’m currently learning secondary
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me through gmail: hoangtrungtamquan@gmail.com
 
 <!---
 nguyenhoangtrung2112007/nguyenhoangtrung2112007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
