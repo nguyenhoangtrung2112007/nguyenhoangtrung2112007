@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HT Gaming
+- 👋 Hi, I’m Hoang Trung
 - 👀 I’m interested in write code 
 - 🌱 I’m currently learning secondary
 - 💞️ I’m looking to collaborate on github
